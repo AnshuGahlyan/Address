@@ -58,7 +58,7 @@ z=z+1;
   var continent = responseJSON.continent;
   var city = responseJSON.city;
  var query = responseJSON.query;
-
+console.log(city);
 fill("blue");
 textSize(21); 
   text(regionName,850,500);  
