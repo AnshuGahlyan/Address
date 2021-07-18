@@ -29,7 +29,7 @@ c.scale = 0.4;
 
 function draw() {
 z=z+1;
-  if(z===50){
+  if(z===30){
   json();
 }
  
